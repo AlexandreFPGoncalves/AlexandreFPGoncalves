@@ -31,6 +31,7 @@
 
 <!-- Current Project starts -->
 <img src="https://i.imgur.com/8lxLe9s.png" align="center" width="50%">
+<br>
 -   ShinyDexTracker is a project that I am currently refactoring, originally coded in EJS now is being rebuilt using the MERN Stack.
 -   The goal of this website is for users to showcase and organize their Pokemon shiny collections.
 
