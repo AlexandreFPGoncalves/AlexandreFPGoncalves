@@ -7,9 +7,9 @@
 #### 🎐 About me
 
 <!-- About me starts -->
-Heya! I am a self-taught <b>Frontend developer</b>.
-I am 20yo currently working at @ITSector.
-Cats, plants and Anime are my main hobbies!
+- Heya! I am a self-taught <b>Frontend developer</b>.
+- I am 20yo currently working at @ITSector.
+- Cats, plants and Anime are my main hobbies!
 <!-- About me ends -->
 
 </td>
