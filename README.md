@@ -29,9 +29,10 @@ Cats, plants and Anime are my main hobbies!
 #### 🔖 <a href="https://github.com/AlexandreFPGoncalves/ShinyDexTrackerV2" target="_blank">Current Project</a>
 
 <!-- Current Project starts -->
-<img src="https://imgur.com/8lxLe9s" align="center">
-ShinyDexTracker is a project that I am currently refactoring, originally coded in EJS now is being rebuild using the MERN Stack.
-The goal of this website is for users to showcase and organize their Pokemon shiny collections.
+
+- ShinyDexTracker is a project that I am currently refactoring, originally coded in EJS now is being rebuild using the MERN Stack.
+  
+- The goal of this website is for users to showcase and organize their Pokemon shiny collections.
 
 <!-- Current Project ends -->
 
