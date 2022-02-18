@@ -30,11 +30,10 @@
 #### 🔖 <a href="https://github.com/AlexandreFPGoncalves/ShinyDexTrackerV2" target="_blank">𝓒𝓾𝓻𝓻𝓮𝓷𝓽 𝓟𝓻𝓸𝓳𝓮𝓬𝓽</a>
 
 <!-- Current Project starts -->
+<p align="center"> <img src="https://i.imgur.com/8lxLe9s.png" align="center" width="50%"></p>
+  
 -   ShinyDexTracker is a project that I am currently refactoring, originally coded in EJS now is being rebuilt using the MERN Stack.
 -   The goal of this website is for users to showcase and organize their Pokemon shiny collections.
-  
-<p align="center"> <img src="https://i.imgur.com/8lxLe9s.png" align="center" width="50%"></p>
-
 <!-- Current Project ends -->
 
 </td>
