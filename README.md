@@ -30,26 +30,13 @@
 
 <!-- Current Project starts -->
 
-- ShinyDexTracker is a project that I am currently refactoring, originally coded in EJS now is being rebuild using the MERN Stack.
+- ShinyDexTracker is a project that I am currently refactoring, originally coded in EJS now is being rebuilt using the MERN Stack.
   
 - The goal of this website is for users to showcase and organize their Pokemon shiny collections.
 
 <!-- Current Project ends -->
 
-</td>
-<td valign="top" width="50%">
 
-#### 🤾‍♂️ <a href="https://www.douban.com/people/tangwei93/" target="_blank">Funny Soul</a>
-
-<!-- douban starts -->
-* <a href='http://movie.douban.com/subject/1780330/' target='_blank'>看过致命魔术</a> - 2022-02-13
-* <a href='http://movie.douban.com/subject/30211551/' target='_blank'>想看恶人传</a> - 2022-02-08
-* <a href='http://movie.douban.com/subject/33432655/' target='_blank'>想看困在时间里的父亲</a> - 2022-02-08
-* <a href='http://movie.douban.com/subject/26770697/' target='_blank'>想看骗子</a> - 2022-02-08
-* <a href='http://movie.douban.com/subject/11627068/' target='_blank'>想看大明劫</a> - 2022-02-08
-<!-- douban ends -->
-
-</td>
   </tr>
   </table>
 
