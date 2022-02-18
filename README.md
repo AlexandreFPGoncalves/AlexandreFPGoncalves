@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
-
-Hi there ✋!  
-We are [Creative Tim](https://www.creative-tim.com/)<img src="https://www.creative-tim.com/assets/logo/logo-ct-white-170d794e447f75aec55c6effdfbedced9dd268ceceece152675ff8f9891e3588.svg" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlexandreFPGoncalves)](https://git.io/streak-stats)
 
 ## About Us
 
