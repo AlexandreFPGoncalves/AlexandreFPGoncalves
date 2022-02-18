@@ -24,7 +24,7 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="100%">
 
 #### 🔖 <a href="https://github.com/AlexandreFPGoncalves/ShinyDexTrackerV2" target="_blank">Current Project</a>
 
@@ -36,6 +36,7 @@
 
 <!-- Current Project ends -->
 
+</td>
 
   </tr>
   </table>
