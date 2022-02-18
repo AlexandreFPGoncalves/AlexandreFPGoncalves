@@ -5,9 +5,10 @@
 #### 🎐 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮
 
 <!-- About me starts -->
-- Heya! I am a self-taught <b>Frontend developer</b>.
-- I am 20yo currently working at @ITSector.
-- Cats, plants and Anime are my main hobbies!
+
+-   Heya! I am a self-taught <b>Frontend developer</b>.
+-   I am 20yo currently working at @ITSector.
+-   Cats, plants and Anime are my main hobbies!
 <!-- About me ends -->
 
 </td>
@@ -16,7 +17,9 @@
 #### 🌀 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼
 
 <!-- Github Stats starts -->
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlexandreFPGoncalves&theme=dark)](https://git.io/streak-stats)
+
 <!-- Github Stats ends -->
 
 </td>
@@ -27,17 +30,17 @@
 #### 🔖 <a href="https://github.com/AlexandreFPGoncalves/ShinyDexTrackerV2" target="_blank">𝓒𝓾𝓻𝓻𝓮𝓷𝓽 𝓟𝓻𝓸𝓳𝓮𝓬𝓽</a>
 
 <!-- Current Project starts -->
-
-- ShinyDexTracker is a project that I am currently refactoring, originally coded in EJS now is being rebuilt using the MERN Stack.
-  
-- The goal of this website is for users to showcase and organize their Pokemon shiny collections.
+<img src="https://i.imgur.com/8lxLe9s.png" align="center">
+-   ShinyDexTracker is a project that I am currently refactoring, originally coded in EJS now is being rebuilt using the MERN Stack.
+-   The goal of this website is for users to showcase and organize their Pokemon shiny collections.
 
 <!-- Current Project ends -->
 
 </td>
 <td valign="top" width="50%">
 
-#### 🃏 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 
+#### 🃏 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮
+
 <!-- knowledge starts -->
 <br>
 <br>
