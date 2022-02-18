@@ -7,9 +7,9 @@
 #### 🎐 About me
 
 <!-- About me starts -->
-- Heya! I am a self-taught frontend developer.
-- I am 20yo currently working at @ITSector.
-- Cats, plants and Anime are my main hobbies!
+Heya! I am a self-taught <b>Frontend developer</b>.
+I am 20yo currently working at @ITSector.
+Cats, plants and Anime are my main hobbies!
 <!-- About me ends -->
 
 </td>
@@ -26,20 +26,14 @@
 <tr>
 <td valign="top" width="50%">
 
-#### 🏊‍♂️ <a href="https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6" target="_blank">Weekly Development Breakdown</a>
+#### 🔖 <a href="https://github.com/AlexandreFPGoncalves/ShinyDexTrackerV2" target="_blank">Current Project</a>
 
-<!-- code_time starts -->
+<!-- Current Project starts -->
+<img src="https://imgur.com/8lxLe9s" align="center">
+ShinyDexTracker is a project that I am currently refactoring, originally coded in EJS now is being rebuild using the MERN Stack.
+The goal of this website is for users to showcase and organize their Pokemon shiny collections.
 
-```text
-JavaScript    1 hr 58 mins  ██████████████▓░░░░░░░░░  46.3%
-Markdown           37 mins  ███████░░░░░░░░░░░░░░░░░  14.8%
-JSON               28 mins  ██████░░░░░░░░░░░░░░░░░░  11.1%
-Smarty             21 mins  █████▒░░░░░░░░░░░░░░░░░░   8.4%
-TypeScript         17 mins  █████░░░░░░░░░░░░░░░░░░░   6.9%
-PHP                11 mins  ████▓░░░░░░░░░░░░░░░░░░░   4.5%
-```
-
-<!-- code_time ends -->
+<!-- Current Project ends -->
 
 </td>
 <td valign="top" width="50%">
