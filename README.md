@@ -37,7 +37,7 @@
     <p>• <a href="https://github.com/AlexandreFPGoncalves/t3-techtalk-2023">T3-Techtalk-2023</a> | <i>Company Workshop Presentation about the T3Stack</i></p></b>
   </div>
 
-<!-- Support me -->
+<!-- Stats -->
   <div>
     <img align="left" src="./static/nom.gif" height="290" />
     <br>
@@ -47,6 +47,7 @@
     <br /><br /><br /><br />
   </div>
 
+<!-- Contact Me -->
   <div>
     <br /><br />
     <img align="right" src="./static/eat.gif" height="230" />
@@ -57,5 +58,7 @@
     <p></p>
   </div>
 </div>
+
 <br /><br /><br />
+
 <p align="center"> Thanks for Reading 💜 happy coding. </p>
