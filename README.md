@@ -1,60 +1,61 @@
-<table width="800px">
-<tr>
-<td valign="top" width="50%">
+<!-- Introduction -->
+  <div>
+      <img src="./static/intro.gif" width="100%"/>
+      <img align="right" src="./static/pat.gif" height="300" />
+      <br><br>
+      <h3>Hiya, I'm Alex 🦊</h3>
+      <p>I am a self-taught Frontend developer and Tutor based in Porto, Portugal.</p>
+      <p>I am currently 22 years old and working at @ITSector. Cats, plants and Anime are my main hobbies!</p>
+  </div>
 
-#### 🎐 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮
+<!-- Knowledge -->
+  <div>
+    <img align="left" src="./static/think.gif" height="290" />
+    <br />
+    <h3 align="left">Knowledge 📦</h3>
+    <p align="left">I primarily work with these techonologies:</p>
+    <img align="left" src="https://skillicons.dev/icons?i=react"/>
+    <img align="left" src="https://skillicons.dev/icons?i=ts"/>
+    <img align="left" src="https://skillicons.dev/icons?i=tailwind"/>
+    <img align="left" src="https://skillicons.dev/icons?i=prisma"/>
+    <img align="left" src="https://skillicons.dev/icons?i=nextjs"/>
+    <img align="left" src="https://skillicons.dev/icons?i=vite"/>
+    <img align="left" src="https://skillicons.dev/icons?i=figma"/>
+    <br /><br /><br />
+    <i><p align="left">However, I am knowledgable in a handful more technologies, I just dont utilize them as often as they wield no use to my interests.</p></i>
+  </div>
 
-<!-- About me starts -->
+<!-- Projects -->
+  <div>
+    <img align="right" src="./static/spin.gif" height="290" />
+    <br />
+    <h3>Projects 🌸</h3>
+    <p>During my journey coding I have built a lot of different projects, some to train learn new features or tools to improve my knowledge as a developer. My Github serves as a storage room for all the information I collected on my daily bases.</p>
+    <b><p>• <a href="https://github.com/AlexandreFPGoncalves/ShinyDexTracker">ShinyDexTracker</a> | <i>A FullStack application to manage hunted shiny pokémon</i></p>
+    <p>• <a href="https://github.com/AlexandreFPGoncalves/ErisBot">ErisBot</a> | <i>A Discord Bot with built-in Karuta features.</i></p>
+    <p>• <a href="https://github.com/AlexandreFPGoncalves/ErisBot">Zustand-Todo-List</a> | <i>Zustand State Management frontend todo-list</i></i></p>
+    <p>• <a href="https://github.com/AlexandreFPGoncalves/t3-techtalk-2023">T3-Techtalk-2023</a> | <i>Company Workshop Presentation about the T3Stack</i></p></b>
+  </div>
 
--   Heya! I am a self-taught <b>Frontend developer</b>.
--   I am 22yo currently working at @ITSector.
--   Cats, plants and Anime are my main hobbies!
-<!-- About me ends -->
+<!-- Support me -->
+  <div>
+    <img align="left" src="./static/nom.gif" height="290" />
+    <br>
+    <h3>Stats</h3>
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandreFPGoncalves&theme=dark" />
+    <br /><br /><br />
+    <br /><br /><br /><br />
+  </div>
 
-</td>
-<td valign="top" width="50%">
-
-#### 🌀 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼
-
-<!-- Github Stats starts -->
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlexandreFPGoncalves&theme=dark)](https://git.io/streak-stats)
-
-<!-- Github Stats ends -->
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-#### 🔖 <a href="https://github.com/AlexandreFPGoncalves/ShinyDexTrackerV2" target="_blank">𝓒𝓾𝓻𝓻𝓮𝓷𝓽 𝓟𝓻𝓸𝓳𝓮𝓬𝓽</a>
-
-<!-- Current Project starts -->
-<!-- <p align="center"> <img src="https://i.imgur.com/8lxLe9s.png" align="center" width="50%"></p> -->
- 
--   Currently working on my [Personal Portfolio](https://github.com/AlexandreFPGoncalves/Portfolio) a project that I have been trying to start for quick a while.
--   The goal of this portfolio is just to save and display some of my past work.
-<!-- Current Project ends -->
-
-</td>
-<td valign="top" width="50%">
-
-#### 🃏 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮
-
-<!-- knowledge starts -->
-<br>
-<br>
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-<!-- knowledge ends -->
-</td>
-  </tr>
-  </table>
-
+  <div>
+    <br /><br />
+    <img align="right" src="./static/eat.gif" height="230" />
+    <br />
+    <h3>Contact Me 📧</h3>
+    <p>I primarily communicate through Discord for simplicity and easily staying connected with friends, however, if you find this non-professional feel free to contact me via email.</p>
+    <p><a href="https://discord.com/users/198873253626904577">violetalex</a> | <a href="mailto:alexandrefpgoncalves@gmail.com">alexandrefpgoncalves@gmail.com</a></p>
+    <p></p>
+  </div>
+</div>
+<br /><br /><br />
 <p align="center"> Thanks for Reading 💜 happy coding. </p>
