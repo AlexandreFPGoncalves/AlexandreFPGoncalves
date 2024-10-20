@@ -5,7 +5,7 @@
       <br><br>
       <h3>Hiya, I'm Alex 🦊</h3>
       <p>I am a self-taught Frontend developer and Tutor based in Porto, Portugal.</p>
-      <p>I am currently 22 years old and working at @ITSector. Cats, plants and Anime are my main hobbies!</p>
+      <p>I am currently 23 years old and working at @ITSector. Cats, plants and Anime are my main hobbies!</p>
   </div>
 
 <!-- Knowledge -->
